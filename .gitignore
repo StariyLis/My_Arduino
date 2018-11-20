@@ -1,2 +1,4 @@
 libraries/Adafruit_BME280_Library/library.properties
 libraries/Adafruit_BME280_Library/README.md
+.vscode/arduino.json
+.vscode/c_cpp_properties.json
